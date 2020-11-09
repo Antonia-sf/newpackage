@@ -57,4 +57,4 @@ if __name__ == '__main__':
     print(' dataframe cleaned')
 
 def try_me():
-    print('Hopefully sharing my code works')
+    return print('Hopefully sharing my code works')
